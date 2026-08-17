@@ -1,0 +1,4 @@
+interface:
+  display_name: "播客来源取证"
+  short_description: "从播客逐字稿快速定位国外原文并形成可复核时间戳证据链"
+  default_prompt: "Use $podcast-source-forensics to transcribe this public podcast and verify its likely foreign sources with timestamped evidence."
